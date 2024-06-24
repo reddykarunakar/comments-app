@@ -1,0 +1,104 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.amber {
+  background-color: #f59e0b;
+}
+.logo {
+  width: 28px;
+  height: 28px;
+  border-radius: 90px;
+  color: #dee0e3;
+  text-align: center;
+  margin-right: 7px;
+}
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.row1 {
+  display: flex;
+  align-items: center;
+}
+.row2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.name {
+  color: #1e293b;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.date {
+  color: #cbd2d9;
+  font-size: 15px;
+}
+.comment {
+  color: #475569;
+  margin-left: 28px;
+}
+.comments {
+  width: 50vw;
+}
+button {
+  background-color: transparent;
+  border: 0px;
+  align-items: center;
+  text-align: center;
+}
+.liked {
+  color: #0b69ff;
+  padding: 10px;
+}
+.delete-logo {
+  height: 15px;
+}

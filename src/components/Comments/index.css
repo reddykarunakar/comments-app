@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-container {
+  padding: 20px;
+  font-family: roboto;
+}
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 50vh;
+}
+.comment-List {
+  display: flex;
+  flex-direction: column;
+}
+.inputbar {
+  width: 350px;
+  height: 40px;
+  border: solid 0.5px #dee0e3;
+  margin-bottom: 10px;
+}
+
+textarea {
+  width: 350px;
+  height: 80px;
+  border: solid 0.5px #dee0e3;
+  margin-bottom: 10px;
+}
+.btn-add {
+  color: #cbd2d9;
+  background-color: #0284c7;
+  width: 100px;
+  height: 30px;
+  border-radius: 7px;
+  border: 0px;
+}
+p {
+  color: #334155;
+}
+.total {
+  background-color: #0284c7;
+  color: #cbd2d9;
+  padding: 2px;
+  margin-right: 3px;
+}
+.comments {
+  list-style: none;
+}
